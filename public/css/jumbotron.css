@@ -1,0 +1,90 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+    padding-top: 3.5rem;
+    background-color: #000000;
+    margin: 3.5rem;
+
+}
+.jumbotron
+{
+    margin-bottom: 0;
+    background-image: url(http://hdqwalls.com/wallpapers/captain-america-vs-black-panther-4k.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+
+}
+
+.content
+{
+    margin-top: 2em ;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin-bottom: 2em ;
+
+
+}
+.font
+{
+    color: #fff3cd;
+}
+.ironman
+{   background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFFFFF;
+    background: url("https://i.pinimg.com/736x/30/85/f7/3085f756da9c61e51ce92f4c1837cc74--marvel-dc-marvel-comics.jpg");
+}
+
+.punisher
+{   background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFFFFF;
+    background: url("http://cdn.skim.gs/images/c_fill,dpr_1.0,f_auto,fl_lossy,h_391,q_auto,w_695/gj6mhylcrkd7qitfoy7l/boycotting-the-punisher") ;
+}
+
+.widow
+{   background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFFFFF;
+    background: url("http://cdn.darkhorizons.com/wp-content/uploads/2018/01/jac-schaeffer-to-pen-marvels-black-widow.jpg");
+}
+
+.captain
+{   background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFFFFF;
+    background: url("http://cdn2.ubergizmo.com/wp-content/uploads/2017/01/black-panther-marvel-640x361.jpg");
+}
+
+.marvel
+{
+    background: url("http://papers.co/wallpaper/papers.co-ai54-marvel-logo-film-art-illust-minimal-6-wallpaper.jpg");
+}
+
+.deadpool
+{   background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFFFFF;
+    background: url("https://www.forevergeek.com/wp-content/media/201g6/07/Deadpool.jpg");
+
+}
+
+.thor
+{   background-repeat: repeat;
+    background-size: contain;
+    color: #FFFFFF;
+    background: url("https://i.ndtvimg.com/i/2017-04/thor-ragnarok_640x480_41491902486.jpg");
+
+
+}
+
+.pull-right {
+    float: right !important;
+}
+
+.fontblk
+{
+    color: #000000;
+}
